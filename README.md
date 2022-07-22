@@ -4,11 +4,11 @@ Hi 👋 My name is Shayan mansornia
 Computer Engineering Student
 ----------------------------
 
-I started learning programming in c language at the university and for now, I'm trying to learn Java
+I started learning programming in c language at the university and for now, I'm trying to learn Python
 
 * 🌍  I'm based in Tehran
 * ✉️  You can contact me at [theyoungshayan@gmail.com](mailto:theyoungshayan@gmail.com)
-* 🧠  I'm learning Java
+* 🧠  I'm learning Python
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
