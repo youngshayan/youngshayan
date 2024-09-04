@@ -4,30 +4,24 @@ Hi 👋 My name is Shayan mansornia
 Computer Engineering Student
 ----------------------------
 
-I started learning programming in c language at the university and for now, I'm trying to learn Python
-
-* 🌍  I'm based in Tehran
-* ✉️  You can contact me at [theyoungshayan@gmail.com](mailto:theyoungshayan@gmail.com)
-* 🧠  I'm learning Python
-* 🤝  I'm open to collaborating on interesting projects
-
-### Skills
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-</p>
+# 💫 About Me:
+🔭 I’m currently working on Learning Advanced Python<br>👯 I’m looking to collaborate on any Python-based projects<br>🤝 I’m looking for a good mentor<br>🌱 I’m currently learning Python, HTML & CSS and Django<br>
 
 
-### Socials
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/whyshayan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shayan-mansornia-250332a7/) 
 
-<p align="left"> <a href="https://www.github.com/YOUNGSHAYAN" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/whyshayan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/shayan-mansornia-250332a7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=youngshayan&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=youngshayan&theme=github_dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=youngshayan&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### Badges
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=youngshayan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<b>My GitHub Stats</b>
+---
+[![](https://visitcount.itsvg.in/api?id=youngshayan&icon=1&color=0)](https://visitcount.itsvg.in)
 
-<a href="http://www.github.com/YOUNGSHAYAN"><img src="https://github-readme-stats.vercel.app/api?username=YOUNGSHAYAN&show_icons=true&hide=prs,&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="YOUNGSHAYAN's GitHub stats" /></a>
-
-<a href="https://github.com/YOUNGSHAYAN" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUNGSHAYAN&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
