@@ -3,7 +3,7 @@ Hi 👋 My name is Shayan mansornia
 
 
 # 💫 About Me:
-🔭 I’m currently working on Learning Advanced Python & AI-ML<br>👯 I’m looking to collaborate on any Python-based projects<br>🤝 I’m looking for a good mentor<br>🌱 I’m currently learning Python libraries about AI & ML
+🔭 I’m currently working small projects about Python & AI-ML<br>👯 I’m looking to collaborate on any Python-based projects<br>🤝 I’m looking for a good mentor<br>🌱 I’m currently learning Python libraries related to AI & ML
 
 
 ## 🌐 Socials:
