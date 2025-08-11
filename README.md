@@ -1,10 +1,15 @@
-Hi 👋 My name is Shayan mansornia
+Hi 👋 My name is Shayan Mansournia
 =================================
 
 
-# 💫 About Me:
-🔭 I’m currently working small projects about Python & AI-ML<br>👯 I’m looking to collaborate on any Python-based projects<br>🤝 I’m looking for a good mentor<br>🌱 I’m currently learning Python libraries related to AI & ML
+## 💡 About Me
 
+* 🔭 Currently building practical Python & AI/ML projects
+* 👯 Open to collaborating on innovative Python-based projects
+* 🤝 Actively seeking mentorship to accelerate my growth
+* 🌱 Deepening expertise in AI & Machine Learning libraries
+
+---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/whyshayan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shayan-mansornia-250332a7) 
