@@ -9,7 +9,7 @@ Hi 👋 My name is Shayan Mansournia
 * 🤝 Actively seeking mentorship to accelerate my growth
 * 🌱 Deepening expertise in AI & Machine Learning libraries
 
----
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/whyshayan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shayan-mansornia-250332a7) 
